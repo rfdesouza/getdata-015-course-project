@@ -12,6 +12,8 @@ runAnalysisMain <- function() {
   library(dplyr)
   library(tidyr)
   
+  unzip('getdata-projectfiles-UCI HAR Dataset.zip')
+  
   dfStepOne <- stepOne()
   dfStepTwo <- stepTwo(dfStepOne)
   dfStepThree <- stepThree(dfStepTwo)
