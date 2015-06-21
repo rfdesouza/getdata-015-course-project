@@ -103,69 +103,69 @@ The tidy data set was generated in the following process (see README.md for a mo
 | tBodyAcc-mean()-X           | Mean of body acceleration time domain signal for the X direction                          |
 | tBodyAcc-mean()-Y           | Mean of body acceleration time domain signal for the Y direction                          |
 | tBodyAcc-mean()-Z           | Mean of body acceleration time domain signal for the Z direction                          |
-| tBodyAcc-std()-X            | Standarad deviation of body acceleration time domain signal for the X direction           |
-| tBodyAcc-std()-Y            | Standarad deviation of body acceleration time domain signal for the Y direction           |
-| tBodyAcc-std()-Z            | Standarad deviation of body acceleration time domain signal for the Z direction           |
+| tBodyAcc-std()-X            | Standard deviation of body acceleration time domain signal for the X direction           |
+| tBodyAcc-std()-Y            | Standard deviation of body acceleration time domain signal for the Y direction           |
+| tBodyAcc-std()-Z            | Standard deviation of body acceleration time domain signal for the Z direction           |
 | tGravityAcc-mean()-X        | Mean of gravity acceleration time domain signal for the X direction                       |
 | tGravityAcc-mean()-Y        | Mean of gravity acceleration time domain signal for the Y direction                       |
 | tGravityAcc-mean()-Z        | Mean of gravity acceleration time domain signal for the Z direction                       |
-| tGravityAcc-std()-X         | Standarad deviation of gravity acceleration time domain signal for the X direction        |
-| tGravityAcc-std()-Y         | Standarad deviation of gravity acceleration time domain signal for the Y direction        |
-| tGravityAcc-std()-Z         | Standarad deviation of gravity acceleration time domain signal for the Z direction        |
+| tGravityAcc-std()-X         | Standard deviation of gravity acceleration time domain signal for the X direction        |
+| tGravityAcc-std()-Y         | Standard deviation of gravity acceleration time domain signal for the Y direction        |
+| tGravityAcc-std()-Z         | Standard deviation of gravity acceleration time domain signal for the Z direction        |
 | tBodyAccJerk-mean()-X       | Mean of body jerk acceleration time domain signal for the X direction                     |
 | tBodyAccJerk-mean()-Y       | Mean of body jerk acceleration time domain signal for the Y direction                     |
 | tBodyAccJerk-mean()-Z       | Mean of body jerk acceleration time domain signal for the Z direction                     |
-| tBodyAccJerk-std()-X        | Standarad deviation of body jerk acceleration time domain signal for the X direction      |
-| tBodyAccJerk-std()-Y        | Standarad deviation of body jerk acceleration time domain signal for the Y direction      |
-| tBodyAccJerk-std()-Z        | Standarad deviation of body jerk acceleration time domain signal for the Z direction      |
+| tBodyAccJerk-std()-X        | Standard deviation of body jerk acceleration time domain signal for the X direction      |
+| tBodyAccJerk-std()-Y        | Standard deviation of body jerk acceleration time domain signal for the Y direction      |
+| tBodyAccJerk-std()-Z        | Standard deviation of body jerk acceleration time domain signal for the Z direction      |
 | tBodyGyro-mean()-X          | Mean of body gyroscope time domain signal for the X direction                             |
 | tBodyGyro-mean()-Y          | Mean of body gyroscope time domain signal for the Y direction                             |
 | tBodyGyro-mean()-Z          | Mean of body gyroscope time domain signal for the Z direction                             |
-| tBodyGyro-std()-X           | Standarad deviation of body gyroscope time domain signal for the X direction              |
-| tBodyGyro-std()-Y           | Standarad deviation of body gyroscope time domain signal for the Y direction              |
-| tBodyGyro-std()-Z           | Standarad deviation of body gyroscope time domain signal for the Z direction              |
+| tBodyGyro-std()-X           | Standard deviation of body gyroscope time domain signal for the X direction              |
+| tBodyGyro-std()-Y           | Standard deviation of body gyroscope time domain signal for the Y direction              |
+| tBodyGyro-std()-Z           | Standard deviation of body gyroscope time domain signal for the Z direction              |
 | tBodyGyroJerk-mean()-X      | Mean of body jerk gyroscope time domain signal for the X direction                        |
 | tBodyGyroJerk-mean()-Y      | Mean of body jerk gyroscope time domain signal for the Y direction                        |
 | tBodyGyroJerk-mean()-Z      | Mean of body jerk gyroscope time domain signal for the Z direction                        |
-| tBodyGyroJerk-std()-X       | Standarad deviation of body jerk gyroscope time domain signal for the X direction         |
-| tBodyGyroJerk-std()-Y       | Standarad deviation of body jerk gyroscope time domain signal for the Y direction         |
-| tBodyGyroJerk-std()-Z       | Standarad deviation of body jerk gyroscope time domain signal for the Z direction         |
+| tBodyGyroJerk-std()-X       | Standard deviation of body jerk gyroscope time domain signal for the X direction         |
+| tBodyGyroJerk-std()-Y       | Standard deviation of body jerk gyroscope time domain signal for the Y direction         |
+| tBodyGyroJerk-std()-Z       | Standard deviation of body jerk gyroscope time domain signal for the Z direction         |
 | tBodyAccMag-mean()          | Mean of body acceleration time domain signal magnitude                                    |
-| tBodyAccMag-std()           | Stndard deviation of body acceleration time domain signal magnitude                       |
+| tBodyAccMag-std()           | Standard deviation of body acceleration time domain signal magnitude                       |
 | tGravityAccMag-mean()       | Mean of gravity acceleration time domain signal magnitude                                 |
-| tGravityAccMag-std()        | Stndard deviation of gravity acceleration time domain signal magnitude                    |
+| tGravityAccMag-std()        | Standard deviation of gravity acceleration time domain signal magnitude                    |
 | tBodyAccJerkMag-mean()      | Mean of body jerk acceleration time domain signal magnitude                               |
-| tBodyAccJerkMag-std()       | Stndard deviation of body jerk acceleration time domain signal magnitude                  |
+| tBodyAccJerkMag-std()       | Standard deviation of body jerk acceleration time domain signal magnitude                  |
 | tBodyGyroMag-mean()         | Mean of body gyroscope time domain signal magnitude                                       |
-| tBodyGyroMag-std()          | Stndard deviation of body gyroscope time domain signal magnitude                          |
+| tBodyGyroMag-std()          | Standard deviation of body gyroscope time domain signal magnitude                          |
 | tBodyGyroJerkMag-mean()     | Mean of body jerk gyroscope time domain signal magnitude                                  |
-| tBodyGyroJerkMag-std()      | Stndard deviation of body jerk gyroscope time domain signal magnitude                     |
+| tBodyGyroJerkMag-std()      | Standard deviation of body jerk gyroscope time domain signal magnitude                     |
 | fBodyAcc-mean()-X           | Mean of body acceleration frequency domain signal for the X direction                     |
 | fBodyAcc-mean()-Y           | Mean of body acceleration frequency domain signal for the Y direction                     |
 | fBodyAcc-mean()-Z           | Mean of body acceleration frequency domain signal for the Z direction                     |
-| fBodyAcc-std()-X            | Standarad deviation of body acceleration frequency domain signal for the X direction      |
-| fBodyAcc-std()-Y            | Standarad deviation of body acceleration frequency domain signal for the Y direction      |
-| fBodyAcc-std()-Z            | Standarad deviation of body acceleration frequency domain signal for the Z direction      |
+| fBodyAcc-std()-X            | Standard deviation of body acceleration frequency domain signal for the X direction      |
+| fBodyAcc-std()-Y            | Standard deviation of body acceleration frequency domain signal for the Y direction      |
+| fBodyAcc-std()-Z            | Standard deviation of body acceleration frequency domain signal for the Z direction      |
 | fBodyAccJerk-mean()-X       | Mean of body jerk acceleration frequency domain signal for the X direction                |
 | fBodyAccJerk-mean()-Y       | Mean of body jerk acceleration frequency domain signal for the Y direction                |
 | fBodyAccJerk-mean()-Z       | Mean of body jerk acceleration frequency domain signal for the Z direction                |
-| fBodyAccJerk-std()-X        | Standarad deviation of body jerk acceleration frequency domain signal for the X direction |
-| fBodyAccJerk-std()-Y        | Standarad deviation of body jerk acceleration frequency domain signal for the Y direction |
-| fBodyAccJerk-std()-Z        | Standarad deviation of body jerk acceleration frequency domain signal for the Z direction |
+| fBodyAccJerk-std()-X        | Standard deviation of body jerk acceleration frequency domain signal for the X direction |
+| fBodyAccJerk-std()-Y        | Standard deviation of body jerk acceleration frequency domain signal for the Y direction |
+| fBodyAccJerk-std()-Z        | Standard deviation of body jerk acceleration frequency domain signal for the Z direction |
 | fBodyGyro-mean()-X          | Mean of body gyroscope frequency domain signal for the X direction                        |
 | fBodyGyro-mean()-Y          | Mean of body gyroscope frequency domain signal for the Y direction                        |
 | fBodyGyro-mean()-Z          | Mean of body gyroscope frequency domain signal for the Z direction                        |
-| fBodyGyro-std()-X           | Standarad deviation of body gyroscope frequency domain signal for the X direction         |
-| fBodyGyro-std()-Y           | Standarad deviation of body gyroscope frequency domain signal for the Y direction         |
-| fBodyGyro-std()-Z           | Standarad deviation of body gyroscope frequency domain signal for the Z direction         |
+| fBodyGyro-std()-X           | Standard deviation of body gyroscope frequency domain signal for the X direction         |
+| fBodyGyro-std()-Y           | Standard deviation of body gyroscope frequency domain signal for the Y direction         |
+| fBodyGyro-std()-Z           | Standard deviation of body gyroscope frequency domain signal for the Z direction         |
 | fBodyAccMag-mean()          | Mean of body acceleration time domain signal magnitude                                    |
-| fBodyAccMag-std()           | Stndard deviation of body acceleration time domain signal magnitude                       |
+| fBodyAccMag-std()           | Standard deviation of body acceleration time domain signal magnitude                       |
 | fBodyBodyAccJerkMag-mean()  | Mean of body jerk acceleration frequency domain signal magnitude                          |
-| fBodyBodyAccJerkMag-std()   | Stndard deviation of body jerk acceleration frequency domain signal magnitude             |
+| fBodyBodyAccJerkMag-std()   | Standard deviation of body jerk acceleration frequency domain signal magnitude             |
 | fBodyBodyGyroMag-mean()     | Mean of body gyroscope frequency domain signal magnitude                                  |
-| fBodyBodyGyroMag-std()      | Stndard deviation of body gyroscope frequency domain signal magnitude                     |
+| fBodyBodyGyroMag-std()      | Standard deviation of body gyroscope frequency domain signal magnitude                     |
 | fBodyBodyGyroJerkMag-mean() | Mean of body jerk gyroscope frequency domain signal magnitude                             |
-| fBodyBodyGyroJerkMag-std()  | Stndard deviation of body jerk gyroscope frequency domain signal magnitude                |
+| fBodyBodyGyroJerkMag-std()  | Standard deviation of body jerk gyroscope frequency domain signal magnitude                |
 
 ### Activity Labels
 
