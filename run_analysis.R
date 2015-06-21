@@ -14,11 +14,11 @@ runAnalysisMain <- function() {
   
   unzip('getdata-projectfiles-UCI HAR Dataset.zip')
   
-  dfStepOne <- stepOne()
-  dfStepTwo <- stepTwo(dfStepOne)
-  dfStepThree <- stepThree(dfStepTwo)
-  dfStepFour <- stepFour(dfStepThree)
-  dfStepFive <- stepFive(dfStepFour)
+  dfStepFive <-  stepOne() %>%
+                  stepTwo() %>%
+                  stepThree() %>%
+                  stepFour() %>%
+                  stepFive()
   
   write.table(dfStepFive, 'stepFiveTidyDataSet.txt', row.names = FALSE)
   View(dfStepFive)
